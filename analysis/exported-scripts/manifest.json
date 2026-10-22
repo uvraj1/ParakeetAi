@@ -1,0 +1,741 @@
+{
+  "capture_path": "C:\\Users\\youba\\.gemini\\antigravity-ide\\brain\\9a3d07cd-e86f-4aed-893f-dacda521e6f4\\.system_generated\\steps\\28\\output.txt",
+  "capture_sha256": "1d6f95d485685288264d9113be833cc387d0c36f1865af324b60a31a12f37f10",
+  "capture_kind": "browser-scenario",
+  "source_evidence_id": "ev_c3de543144565f69c00b50f0b53f7f7b6473dec58b711a7d79868b9f21f8d6a1",
+  "capture_completeness": {
+    "status": "incomplete",
+    "equality_eligible": false,
+    "missing_sections": [
+      "events"
+    ],
+    "truncated_sections": []
+  },
+  "output_directory": "C:\\PROJECT\\REA\\analysis\\exported-scripts",
+  "analysis_input": {
+    "input_path": "C:\\PROJECT\\REA\\analysis\\exported-scripts\\files",
+    "format": "directory"
+  },
+  "scripts": [
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-8",
+        "request_sequence": 18,
+        "response_sequence": 84,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/1k83ibaytaxi0.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/bc1d2b31cc673ab0f575f9ff5cd331246191e478566bc8630f3874887e753326/_next/static/immutable/chunks/1k83ibaytaxi0.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "be1f58991321c7dabdeff77041ed65a659da662676068be4dd9bc3ff6c7da3f2",
+        "bytes": 32220,
+        "media_type": "application/javascript; charset=utf-8",
+        "redacted": false,
+        "representation": "playwright-response-body-bytes"
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-9",
+        "request_sequence": 19,
+        "response_sequence": 105,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/1-jgsmf39am1j.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/bc1d2b31cc673ab0f575f9ff5cd331246191e478566bc8630f3874887e753326/_next/static/immutable/chunks/1-jgsmf39am1j.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "69a5f1e2b0004cb252fac539a43a0c2ba45c6e5de66b2aa49bea541023c64ec0",
+        "bytes": 26616,
+        "media_type": "application/javascript; charset=utf-8",
+        "redacted": false,
+        "representation": "playwright-response-body-bytes"
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-10",
+        "request_sequence": 20,
+        "response_sequence": 108,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/0qylovg6ignbq.js",
+      "content": {
+        "state": "unavailable",
+        "reason": "body-size-limit",
+        "message": "Playwright materialized the body before its 65536-byte retained-body budget was checked."
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-11",
+        "request_sequence": 21,
+        "response_sequence": 96,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/37mwxe2-fs5by.js",
+      "content": {
+        "state": "unavailable",
+        "reason": "body-size-limit",
+        "message": "Playwright materialized the body before its 65536-byte retained-body budget was checked."
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-12",
+        "request_sequence": 22,
+        "response_sequence": 87,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/1-syqkvtybqf3.js",
+      "content": {
+        "state": "unavailable",
+        "reason": "body-size-limit",
+        "message": "Playwright materialized the body before its 65536-byte retained-body budget was checked."
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-13",
+        "request_sequence": 23,
+        "response_sequence": 126,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/turbopack-27nc-ph3gvhve.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/bc1d2b31cc673ab0f575f9ff5cd331246191e478566bc8630f3874887e753326/_next/static/immutable/chunks/turbopack-27nc-ph3gvhve.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "27a6935c8ed181a6677950d802d67a90749d4f49f9eab4febd35c935cd72e8af",
+        "bytes": 11296,
+        "media_type": "application/javascript; charset=utf-8",
+        "redacted": false,
+        "representation": "playwright-response-body-bytes"
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-14",
+        "request_sequence": 24,
+        "response_sequence": 99,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/0pautb9swgfjm.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/bc1d2b31cc673ab0f575f9ff5cd331246191e478566bc8630f3874887e753326/_next/static/immutable/chunks/0pautb9swgfjm.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "fbc7d0977a92a5002612137e09ebac579b7af52c83550297c053530ae4ade7f5",
+        "bytes": 14241,
+        "media_type": "application/javascript; charset=utf-8",
+        "redacted": false,
+        "representation": "playwright-response-body-bytes"
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-15",
+        "request_sequence": 25,
+        "response_sequence": 111,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/0ecdcbxt-7wy6.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/bc1d2b31cc673ab0f575f9ff5cd331246191e478566bc8630f3874887e753326/_next/static/immutable/chunks/0ecdcbxt-7wy6.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "48902ebe6876a1473d24560485d3ee1426d16d06d8f0a2f71520282ee47b571b",
+        "bytes": 27676,
+        "media_type": "application/javascript; charset=utf-8",
+        "redacted": false,
+        "representation": "playwright-response-body-bytes"
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-16",
+        "request_sequence": 26,
+        "response_sequence": 93,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/0p-gv1bkv-6-g.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/bc1d2b31cc673ab0f575f9ff5cd331246191e478566bc8630f3874887e753326/_next/static/immutable/chunks/0p-gv1bkv-6-g.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "b906c7a0a2bb6665adf9951a10852163a01ea0478b967090701a1f1d7224c64c",
+        "bytes": 27788,
+        "media_type": "application/javascript; charset=utf-8",
+        "redacted": false,
+        "representation": "playwright-response-body-bytes"
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-17",
+        "request_sequence": 27,
+        "response_sequence": 102,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/2xm_2y36vr0mn.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/bc1d2b31cc673ab0f575f9ff5cd331246191e478566bc8630f3874887e753326/_next/static/immutable/chunks/2xm_2y36vr0mn.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "f113dfb7a47168cdacbe54c0ee8830c2921523ac0eb24c908c52eb1eb50101e8",
+        "bytes": 39790,
+        "media_type": "application/javascript; charset=utf-8",
+        "redacted": false,
+        "representation": "playwright-response-body-bytes"
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-18",
+        "request_sequence": 28,
+        "response_sequence": 120,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/1ebqpfbrxtoc9.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/bc1d2b31cc673ab0f575f9ff5cd331246191e478566bc8630f3874887e753326/_next/static/immutable/chunks/1ebqpfbrxtoc9.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "dc2990a1f900d715fa7e62047a15fb8adb48666265adf02346bff9ee11859da4",
+        "bytes": 34094,
+        "media_type": "application/javascript; charset=utf-8",
+        "redacted": false,
+        "representation": "playwright-response-body-bytes"
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-19",
+        "request_sequence": 29,
+        "response_sequence": 123,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/3iaalxitts_51.js",
+      "content": {
+        "state": "unavailable",
+        "reason": "body-size-limit",
+        "message": "Playwright materialized the body before its 65536-byte retained-body budget was checked."
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-20",
+        "request_sequence": 30,
+        "response_sequence": 117,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/34zc9gtn6wqbg.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/bc1d2b31cc673ab0f575f9ff5cd331246191e478566bc8630f3874887e753326/_next/static/immutable/chunks/34zc9gtn6wqbg.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "0516d185d3470961a57d16ce3cdd36eccbc27d8075d2ff081b27f2089cb6e522",
+        "bytes": 35377,
+        "media_type": "application/javascript; charset=utf-8",
+        "redacted": false,
+        "representation": "playwright-response-body-bytes"
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-21",
+        "request_sequence": 31,
+        "response_sequence": 129,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/1i7z4ur-date-.js",
+      "content": {
+        "state": "unavailable",
+        "reason": "body-size-limit",
+        "message": "Playwright materialized the body before its 65536-byte retained-body budget was checked."
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-22",
+        "request_sequence": 32,
+        "response_sequence": 132,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/3j1skvhw02bz7.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/bc1d2b31cc673ab0f575f9ff5cd331246191e478566bc8630f3874887e753326/_next/static/immutable/chunks/3j1skvhw02bz7.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "0a7de4a1aec7e3640e067a09e4d10d4ceb94ba4445aeec2df07444c01467b95f",
+        "bytes": 40985,
+        "media_type": "application/javascript; charset=utf-8",
+        "redacted": false,
+        "representation": "playwright-response-body-bytes"
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-23",
+        "request_sequence": 33,
+        "response_sequence": 114,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/1l4fo-kh1ekn5.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/bc1d2b31cc673ab0f575f9ff5cd331246191e478566bc8630f3874887e753326/_next/static/immutable/chunks/1l4fo-kh1ekn5.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "14f4fed4aff3c4747a26154f1df85bdfcc448dcab846df1199fdd0d1adc98825",
+        "bytes": 46235,
+        "media_type": "application/javascript; charset=utf-8",
+        "redacted": false,
+        "representation": "playwright-response-body-bytes"
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-24",
+        "request_sequence": 34,
+        "response_sequence": 177,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/1g88lnd39k4w-.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/bc1d2b31cc673ab0f575f9ff5cd331246191e478566bc8630f3874887e753326/_next/static/immutable/chunks/1g88lnd39k4w-.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "696c8ccb550ed9388736261ba2949f56922d4bd743fa6bc25564563cc8386b6b",
+        "bytes": 3564,
+        "media_type": "application/javascript; charset=utf-8",
+        "redacted": false,
+        "representation": "playwright-response-body-bytes"
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-25",
+        "request_sequence": 35,
+        "response_sequence": 135,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/3n4gtypyef2my.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/bc1d2b31cc673ab0f575f9ff5cd331246191e478566bc8630f3874887e753326/_next/static/immutable/chunks/3n4gtypyef2my.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "021fc06295ec901b37c67eccc200c08512e07f4dc1714ce8f2e235ab1bb30c27",
+        "bytes": 906,
+        "media_type": "application/javascript; charset=utf-8",
+        "redacted": false,
+        "representation": "playwright-response-body-bytes"
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-26",
+        "request_sequence": 36,
+        "response_sequence": 147,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/1kkvz7llmel_f.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/bc1d2b31cc673ab0f575f9ff5cd331246191e478566bc8630f3874887e753326/_next/static/immutable/chunks/1kkvz7llmel_f.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "0afcbd8d7473babddad0b93c49fcfb92fe36c1db211cafa8a2d067933cb547f2",
+        "bytes": 20116,
+        "media_type": "application/javascript; charset=utf-8",
+        "redacted": false,
+        "representation": "playwright-response-body-bytes"
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-27",
+        "request_sequence": 37,
+        "response_sequence": 141,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/0s226mlnaobee.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/bc1d2b31cc673ab0f575f9ff5cd331246191e478566bc8630f3874887e753326/_next/static/immutable/chunks/0s226mlnaobee.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "93e0326cc058769e30b95f5768f0115ce7f522e5c857ec621062da3f81ca3e43",
+        "bytes": 21703,
+        "media_type": "application/javascript; charset=utf-8",
+        "redacted": false,
+        "representation": "playwright-response-body-bytes"
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-28",
+        "request_sequence": 38,
+        "response_sequence": 183,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/322uxt96r16hi.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/bc1d2b31cc673ab0f575f9ff5cd331246191e478566bc8630f3874887e753326/_next/static/immutable/chunks/322uxt96r16hi.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "b1ef22fe8b9056dcfee62a052b3bd1610fc8f279debc6721b8f5c65d1f8d3ba7",
+        "bytes": 21117,
+        "media_type": "application/javascript; charset=utf-8",
+        "redacted": false,
+        "representation": "playwright-response-body-bytes"
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-29",
+        "request_sequence": 39,
+        "response_sequence": 174,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/2r-b0k2gsiupr.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/bc1d2b31cc673ab0f575f9ff5cd331246191e478566bc8630f3874887e753326/_next/static/immutable/chunks/2r-b0k2gsiupr.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "d5eaf2aa2f7e84e2cf47b79ca197764d87f16f92d12d05b7a9d063f4ebae5ce4",
+        "bytes": 18174,
+        "media_type": "application/javascript; charset=utf-8",
+        "redacted": false,
+        "representation": "playwright-response-body-bytes"
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-30",
+        "request_sequence": 40,
+        "response_sequence": 162,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/2_1u18034m-nv.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/bc1d2b31cc673ab0f575f9ff5cd331246191e478566bc8630f3874887e753326/_next/static/immutable/chunks/2_1u18034m-nv.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "07f01abd3c7d89dab87a6b50249202d33b8793848f9e33ec740f8ab342a78b62",
+        "bytes": 41037,
+        "media_type": "application/javascript; charset=utf-8",
+        "redacted": false,
+        "representation": "playwright-response-body-bytes"
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-31",
+        "request_sequence": 41,
+        "response_sequence": 138,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/39gtnuof5e7x-.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/bc1d2b31cc673ab0f575f9ff5cd331246191e478566bc8630f3874887e753326/_next/static/immutable/chunks/39gtnuof5e7x-.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "52ccbda380e60e771638913341d8c5e1aee23d3bec94d14d61e862778b4c8860",
+        "bytes": 33403,
+        "media_type": "application/javascript; charset=utf-8",
+        "redacted": false,
+        "representation": "playwright-response-body-bytes"
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-32",
+        "request_sequence": 42,
+        "response_sequence": 241,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/3sqcg--i_t3oa.js",
+      "content": {
+        "state": "unavailable",
+        "reason": "body-size-limit",
+        "message": "Playwright materialized the body before its 65536-byte retained-body budget was checked."
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-33",
+        "request_sequence": 43,
+        "response_sequence": 150,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/2o25yb8k1jrjb.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/bc1d2b31cc673ab0f575f9ff5cd331246191e478566bc8630f3874887e753326/_next/static/immutable/chunks/2o25yb8k1jrjb.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "fb08350ef163ff22fab4aac9f7f4498e2bee2956dbe7f588662d96ea1b23d691",
+        "bytes": 56028,
+        "media_type": "application/javascript; charset=utf-8",
+        "redacted": false,
+        "representation": "playwright-response-body-bytes"
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-34",
+        "request_sequence": 44,
+        "response_sequence": 165,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/3gfw98-zptdoh.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/bc1d2b31cc673ab0f575f9ff5cd331246191e478566bc8630f3874887e753326/_next/static/immutable/chunks/3gfw98-zptdoh.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "00cbb0ef0740267a707a186a62a4f321d8656afa64c1c35c3977f8fd5c04ec6f",
+        "bytes": 59068,
+        "media_type": "application/javascript; charset=utf-8",
+        "redacted": false,
+        "representation": "playwright-response-body-bytes"
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-35",
+        "request_sequence": 45,
+        "response_sequence": 180,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/3de8ylbf7cho6.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/bc1d2b31cc673ab0f575f9ff5cd331246191e478566bc8630f3874887e753326/_next/static/immutable/chunks/3de8ylbf7cho6.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "9d1d2cbadcfbd17122008403172d459254c42214dd91aab1ee996dcde6febe49",
+        "bytes": 18657,
+        "media_type": "application/javascript; charset=utf-8",
+        "redacted": false,
+        "representation": "playwright-response-body-bytes"
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-36",
+        "request_sequence": 46,
+        "response_sequence": 153,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/158gckzvxsv0b.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/bc1d2b31cc673ab0f575f9ff5cd331246191e478566bc8630f3874887e753326/_next/static/immutable/chunks/158gckzvxsv0b.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "60e4b94d4287925e6749c64dc4b7cd2388b8e118a89983f2d9a77481af87c6d5",
+        "bytes": 56863,
+        "media_type": "application/javascript; charset=utf-8",
+        "redacted": false,
+        "representation": "playwright-response-body-bytes"
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-37",
+        "request_sequence": 47,
+        "response_sequence": 156,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/3yirfm2jfvurn.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/bc1d2b31cc673ab0f575f9ff5cd331246191e478566bc8630f3874887e753326/_next/static/immutable/chunks/3yirfm2jfvurn.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "8c93a19ca0c314815760889ee049198248f1c88905eb2be9f1f715a3cce3a4af",
+        "bytes": 25457,
+        "media_type": "application/javascript; charset=utf-8",
+        "redacted": false,
+        "representation": "playwright-response-body-bytes"
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-38",
+        "request_sequence": 48,
+        "response_sequence": 159,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/12rlwv2c7yfxf.js",
+      "content": {
+        "state": "unavailable",
+        "reason": "body-size-limit",
+        "message": "Playwright materialized the body before its 65536-byte retained-body budget was checked."
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-39",
+        "request_sequence": 49,
+        "response_sequence": 168,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/26anvz3gwy5kg.js",
+      "content": {
+        "state": "unavailable",
+        "reason": "body-size-limit",
+        "message": "Playwright materialized the body before its 65536-byte retained-body budget was checked."
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-40",
+        "request_sequence": 50,
+        "response_sequence": 171,
+        "status": 200
+      },
+      "url": "https://www.parakeet-ai.com/_next/static/immutable/chunks/3nw0anb_44k-b.js",
+      "content": {
+        "state": "unavailable",
+        "reason": "body-size-limit",
+        "message": "Playwright materialized the body before its 65536-byte retained-body budget was checked."
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-41",
+        "request_sequence": 51,
+        "response_sequence": 269,
+        "status": 200
+      },
+      "url": "https://www.googletagmanager.com/gtag/js?id=AW-16701726813",
+      "content": {
+        "state": "unavailable",
+        "reason": "body-size-limit",
+        "message": "Playwright materialized the body before its 65536-byte retained-body budget was checked."
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-42",
+        "request_sequence": 61,
+        "response_sequence": 262,
+        "status": 200
+      },
+      "url": "https://connect.facebook.net/en_US/fbevents.js",
+      "content": {
+        "state": "unavailable",
+        "reason": "body-size-limit",
+        "message": "Playwright materialized the body before its 65536-byte retained-body budget was checked."
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-70",
+        "request_sequence": 319,
+        "response_sequence": 358,
+        "status": 200
+      },
+      "url": "https://connect.facebook.net/signals/config/1191148506403881?v=2.9.427&r=stable&domain=www.parakeet-ai.com&hme=766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f&ex_m=118%2C241%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C210%2C255%2C84%2C274%2C273%2C272%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C324%2C325%2C326%2C323%2C340%2C362%2C248%2C237%2C70%2C238%2C236%2C365%2C356%2C59%2C249%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
+      "content": {
+        "state": "unavailable",
+        "reason": "body-size-limit",
+        "message": "Playwright materialized the body before its 65536-byte retained-body budget was checked."
+      }
+    },
+    {
+      "source": {
+        "kind": "scenario-response",
+        "transaction_id": "request-71",
+        "request_sequence": 320,
+        "response_sequence": 382,
+        "status": 200
+      },
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16701726813/?random=1792689576913&cv=11&fst=1792689576913&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6al0v9200051586za208zd9200051586xecxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123548194&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.parakeet-ai.com%2F&rcb=17&frm=0&tiba=ParakeetAI%20-%20%231%20Real-Time%20AI%20Interview%20Assistant&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=867909256.1792689577&uaa=x86&uab=64&uafvl=Microsoft%2520Edge%3B155.0.4283.62%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&_tu=CA&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-37-42848f3c8e975294bb6da7f54173d15891063494bc4e1c278ff1082f4ecfa234.js",
+        "layout": "isolated",
+        "layout_reason": "URL path is not an ordinary portable JavaScript module path.",
+        "sha256": "ffb9feff1e8fead53335a657dac69d4b8ed499584160c5c50fecc5e66a4dbe03",
+        "bytes": 8047,
+        "media_type": "text/javascript; charset=UTF-8",
+        "redacted": false,
+        "representation": "playwright-response-body-bytes"
+      }
+    }
+  ],
+  "limitations": [
+    "Event sequence records provider receipt order; simultaneous browser causality is not inferred.",
+    "Network content is retained only when selected; Playwright response-body bytes are API results and are not guaranteed to match wire bytes.",
+    "Request bytes are limited to what Playwright exposes; not_exposed does not establish body absence or multipart file coverage.",
+    "Network content reads settle within 5 seconds each and the observer does not request bodies from unfinished responses.",
+    "Captured response-body bytes are the result of Playwright's Response.body() API. Playwright may satisfy that API with a credentialed follow-up load of the request URL when CDP has no body, so transaction and event links do not verify that retained bytes came from the original network transaction.",
+    "Playwright scenario events do not expose request initiator stacks; receipt order does not prove causality.",
+    "Storage values are hashed only after declared-secret redaction.",
+    "Some selected network content was unavailable; per-transaction content states retain the reason.",
+    "Only script bytes retained in this capture are exported. Sources are not refetched or executed, and a response or Debugger source does not prove execution.",
+    "Ordinary unambiguous URL paths preserve relative module layouts by origin, including case-distinct spellings. Query variants, exact path collisions, file/directory prefixes, inline sources, and unrepresentable paths are isolated. A case-distinct pair is isolated only when the destination filesystem cannot store both spellings; the record names that pair. Browser module relationships of isolated paths remain unknown.",
+    "Local JavaScript analysis does not implement browser import maps, root-relative URL resolution, remote URL loading, or browser runtime behavior. It may strip import queries and fragments; isolated variants are not canonical targets.",
+    "Source-map declarations are retained as metadata. No source maps or missing dependencies are fetched or reconstructed.",
+    "Scenario response bytes preserve the output of Playwright's Response.body() API; any source-body provenance caveat from the capture is retained in this manifest. Debugger sources are the exposed text encoded as UTF-8. Redacted bytes are exported exactly as retained, and may no longer parse as JavaScript."
+  ]
+}
